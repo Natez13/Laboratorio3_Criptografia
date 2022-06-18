@@ -1,6 +1,6 @@
 # Laboratorio 3 Criptografia
-EL Codigo es Posbible utilizarlo a traves del siguiente Link
-https://drive.google.com/file/d/15rQPPuo-1b89UGR_H1eM1hpMcBK7mVQP/view?usp=sharing
+EL Codigo es Realizado se puede ver a traves del siguiente Link (Se requiere mail UDP):
+https://drive.google.com/file/d/15rQPPuo-1b89UGR_H1eM1hpMcBK7mVQP/view?usp=sharing, luego se puede realizar las prubas del codigo utilizando Google Colab
 
 ## Driagrama de Flujo y Casos de Uso:
 
