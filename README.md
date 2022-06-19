@@ -8,6 +8,6 @@ El sistema busca integrar un sistema de mensajería que permita a los usuarios e
 
 El funcionamiento del Hash, a grandes rasgos consiste en la recepción del mensaje, el cual es evaluado para identificar si este consiste en un texto o un archivo, luego en caso de ser un archivo este es transportado a un buffer para su lectura, luego se crean y seleccionas variables necesarias para el proceso de cálculos matemáticos y lógicos, luego el resultado obtenido se transforma a su equivalente en ASCII.
 
+![Lab3Cripto drawio](https://user-images.githubusercontent.com/70248621/174465600-89491278-c33c-4433-a7c0-f31737bc7946.png)
 
 
-![Lab3Cripto drawio](https://user-images.githubusercontent.com/70248621/173138587-5ce7d4e2-dc52-4d9f-a343-fff0ba096d02.png)
