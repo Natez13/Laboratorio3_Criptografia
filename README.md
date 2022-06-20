@@ -1,6 +1,6 @@
 # Laboratorio 3 Criptografia
 
-##### Table of Contents  
+##### Indice  
 [Codigo de Hash](#CodigodeHash)  
 [Driagrama de Flujo y Casos de Uso](#DriagramadeFlujoyCasosdeUso)  
 [Comparativa de Rendimiento](#ComparativadeRendimiento)  
