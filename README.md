@@ -9,6 +9,13 @@
 <a name="Driagrama de Flujo y Casos de Uso"/>
 <a name="Comparativa de Rendimiento"/>
 
+##### Table of Contents  
+[Headers](#headers)  
+[Emphasis](#emphasis)  
+...snip...    
+<a name="headers"/>
+## Headers
+
 ## Codigo de Hash
 EL Codigo es Realizado se puede ver y probar a traves del siguiente Link (Se requiere mail UDP):
 https://drive.google.com/file/d/15rQPPuo-1b89UGR_H1eM1hpMcBK7mVQP/view?usp=sharing 
