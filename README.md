@@ -1,6 +1,9 @@
 # Laboratorio 3 Criptografia
-EL Codigo es Realizado se puede ver a traves del siguiente Link (Se requiere mail UDP):
-https://drive.google.com/file/d/15rQPPuo-1b89UGR_H1eM1hpMcBK7mVQP/view?usp=sharing, luego se puede realizar las prubas del codigo utilizando Google Colab
+
+## Codigo de Hash
+EL Codigo es Realizado se puede ver y probar a traves del siguiente Link (Se requiere mail UDP):
+https://drive.google.com/file/d/15rQPPuo-1b89UGR_H1eM1hpMcBK7mVQP/view?usp=sharing 
+O bien cargando el archivo Lab3Cripto.ipynb en Google Colab.
 
 ## Driagrama de Flujo y Casos de Uso:
 
