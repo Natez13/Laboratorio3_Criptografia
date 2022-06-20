@@ -19,3 +19,8 @@ El funcionamiento del Hash, a grandes rasgos consiste en la recepción del mensa
 ## Comparativa de Rendimiento
 
 Las comparativas de rendimiento se pueden encontrar tanto en el archivo de TablasComparativas.xlsx o TablasComparativas.pdf, tambien se puede observar a continuacion: 
+
+|    | A     | B      | C       |
+|---:|:------|:-------|:--------|
+|  0 | A(병합) | B<br>2 | [C2](#) |
+|  1 |       | B3(병합) |         |
