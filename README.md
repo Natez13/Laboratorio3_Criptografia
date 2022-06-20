@@ -16,3 +16,6 @@ El funcionamiento del Hash, a grandes rasgos consiste en la recepción del mensa
 ![Lab3Cripto drawio](https://user-images.githubusercontent.com/70248621/174465600-89491278-c33c-4433-a7c0-f31737bc7946.png)
 
 
+## Comparativa de Rendimiento
+
+Las comparativas de rendimiento se pueden encontrar tanto en el archivo de TablasComparativas.xlsx o TablasComparativas.pdf, tambien se puede observar a continuacion: 
