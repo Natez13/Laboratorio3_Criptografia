@@ -29,7 +29,7 @@ El funcionamiento del Hash, a grandes rasgos consiste en la recepción del mensa
 ## Comparativa de Rendimiento
 <a name="ComparativadeRendimiento"/>
 Las comparativas de rendimiento se pueden encontrar tanto en el archivo de TablasComparativas.xlsx o TablasComparativas.pdf, tambien se puede observar a continuacion: 
-
+<br />
 
 ![image](https://user-images.githubusercontent.com/70248621/174529341-c62edd71-61a1-498f-9942-17a4e90e57f6.png)
 
