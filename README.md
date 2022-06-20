@@ -1,16 +1,16 @@
 # Laboratorio 3 Criptografia
 
 ##### Table of Contents  
-[Codigo de Hash](##Codigo de Hash)  
-[Driagrama de Flujo y Casos de Uso](##Driagrama de Flujo y Casos de Uso)  
-[Comparativa de Rendimiento](##Comparativa de Rendimiento)  
+[Codigo de Hash](#CodigodeHash)  
+[Driagrama de Flujo y Casos de Uso](#DriagramadeFlujoyCasosdeUso)  
+[Comparativa de Rendimiento](##omparativadeRendimiento)  
  
-<a name="Codigo de Hash"/>
-<a name="Driagrama de Flujo y Casos de Uso"/>
-<a name="Comparativa de Rendimiento"/>
+<a name="CodigodeHash"/>
+<a name="DriagramadeFlujoyCasosdeUso"/>
+<a name="ComparativadeRendimiento"/>
 
 ##### Table of Contents  
-[Headers](#head5ers)  
+[Headers](#headers)  
 [Emphasis](#emphasis)  
 ...snip...    
 <a name="headers"/>
