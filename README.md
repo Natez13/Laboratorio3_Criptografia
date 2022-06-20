@@ -3,7 +3,7 @@
 ##### Table of Contents  
 [Codigo de Hash](#CodigodeHash)  
 [Driagrama de Flujo y Casos de Uso](#DriagramadeFlujoyCasosdeUso)  
-[Comparativa de Rendimiento](##omparativadeRendimiento)  
+[Comparativa de Rendimiento](#ComparativadeRendimiento)  
  
 <a name="CodigodeHash"/>
 <a name="DriagramadeFlujoyCasosdeUso"/>
