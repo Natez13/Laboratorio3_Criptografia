@@ -1,3 +1,10 @@
+##### Table of Contents  
+[Headers](#headers)  
+[Emphasis](#emphasis)  
+...snip...    
+<a name="headers"/>
+## Headers
+
 # Laboratorio 3 Criptografia
 
 ## Codigo de Hash
@@ -21,4 +28,5 @@ El funcionamiento del Hash, a grandes rasgos consiste en la recepción del mensa
 Las comparativas de rendimiento se pueden encontrar tanto en el archivo de TablasComparativas.xlsx o TablasComparativas.pdf, tambien se puede observar a continuacion: 
 
 ![image](https://user-images.githubusercontent.com/70248621/174529341-c62edd71-61a1-498f-9942-17a4e90e57f6.png)
+
 ![image](https://user-images.githubusercontent.com/70248621/174529286-87884284-5bf2-4564-8546-3a26ec60fc93.png)
