@@ -40,7 +40,6 @@ Las comparativas de rendimiento se pueden encontrar tanto en el archivo de Tabla
 
 ## Muestra de Funcionamiento del Hash
 <a name="mfh"/>
-<p alling="center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/a8RTXGUqz0I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</p>
+
+[![image](https://i9.ytimg.com/vi_webp/a8RTXGUqz0I/mqdefault.webp?v=62b63c2e&sqp=CPCD2ZUG&rs=AOn4CLC4VNJuqUh1WJu1wPF7o23vGxiSHw)](https://www.youtube.com/watch?v=a8RTXGUqz0I)
 
