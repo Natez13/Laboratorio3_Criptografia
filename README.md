@@ -4,6 +4,7 @@
 [Codigo de Hash](#CodigodeHash)  
 [Driagrama de Flujo y Casos de Uso](#DriagramadeFlujoyCasosdeUso)  
 [Comparativa de Rendimiento](#ComparativadeRendimiento)  
+[Muestra de Funcionamiento del Hash](#mfh)
  
 <a name="CodigodeHash"/>
 
@@ -35,3 +36,8 @@ Las comparativas de rendimiento se pueden encontrar tanto en el archivo de Tabla
 ![image](https://user-images.githubusercontent.com/70248621/174529341-c62edd71-61a1-498f-9942-17a4e90e57f6.png)
 
 ![image](https://user-images.githubusercontent.com/70248621/174529286-87884284-5bf2-4564-8546-3a26ec60fc93.png)
+
+## Muestra de Funcionamiento del Hash
+<a name="mfh"/>
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/a8RTXGUqz0I)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
