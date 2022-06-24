@@ -1,3 +1,4 @@
+
 # Laboratorio 3 Criptografia
 
 ## Indice  
@@ -39,5 +40,7 @@ Las comparativas de rendimiento se pueden encontrar tanto en el archivo de Tabla
 
 ## Muestra de Funcionamiento del Hash
 <a name="mfh"/>
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/a8RTXGUqz0I)
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
+<p alling="center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/a8RTXGUqz0I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
+
