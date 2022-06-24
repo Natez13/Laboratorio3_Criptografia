@@ -5,7 +5,7 @@
 [Codigo de Hash](#CodigodeHash)  
 [Driagrama de Flujo y Casos de Uso](#DriagramadeFlujoyCasosdeUso)  
 [Comparativa de Rendimiento](#ComparativadeRendimiento)  
-[Muestra de Funcionamiento del Hash](#mfh)
+[Funcionamiento del Hash y Prgrama](#mfh)
  
 <a name="CodigodeHash"/>
 
@@ -38,8 +38,30 @@ Las comparativas de rendimiento se pueden encontrar tanto en el archivo de Tabla
 
 ![image](https://user-images.githubusercontent.com/70248621/174529286-87884284-5bf2-4564-8546-3a26ec60fc93.png)
 
-## Muestra de Funcionamiento del Hash
+
+## Funcionamiento del Hash y Prgrama
+
+### Funcionamiento del Hash
 <a name="mfh"/>
+A grandes rasgos el código Hash se compone de 4 funciones más la función principal de Hash. 
+De las 4 funciones una corresponde a una función de Shift de un Texto, dado un valor y el texto al cual realizar el Shift, retornando el Texto Shifteado; una Función de Padding la cual agrega un pad predeterminado a un texto y retornara un string de largo 10 caracteres, una función Interprete, la cual traducirá un número a 55 caracteres ASCII y por último una función de Efecto Avalancha la cual recibirá el texto el cual debe ser Hasheado y calculara un número único, para ello realiza diversas acciones como un Shift y una Inversión al texto, seleccionar un valor de Shift y un número, los cual aplicara diversas funciones matemáticas hasta obtener un número único asociado al texto inicial.
+Luego la función principal de Hash primero verifica si el largo del texto de entrada tiene como mínimo 10 caracteres, de no ser así llama a la función de Padding, caso contrario ejecuta el proceso de Hasheo el cual primero llama a la función de Efecto Avalancha (La cual hace uso de la función de Shift) y luego llama a la función Interprete.
+
+### Funcionamiento del Programa
+
+El programa consta de un menú el cual tiene 5 opciones: 
+
+-   1.- Hash a un String: Esta opción recibe directamente un string dado por el usuario y realiza el Hash devolviendo el Hash del string y la entropía del Hash resultante.
+-   2.- Hash a varios String en un archivo de texto: Esta opción recibe un archivo .txt y realiza un Hash a cada línea dentro de este, retornando el Hash de cada uno y la entropía del Hash resultante.
+-   3.- Hash a un Archivo: Esta opción recibe un archivo y lo transforma a un buffer en formato ASCII, y luego realiza el Hash al buffer, retornando el Hash y la entropía de este.
+-   4.1.- Entropía a un String: Calcula la entropía de un string dado.
+-   4.2.- Entropía a varios String en un archivo de texto: Calcula la entropía de cada línea dentro del texto.
+-   4.3.- Entropía a un Archivo: Esta opción recibe un archivo y lo transforma a un buffer y Calcula la entropía del buffer
+-   5 .- Salir: Esta opción termina el programa
+
+### Video
+
+En el video a continuacion se puede observar un ejemplo de uso del Hash junto al calculo de rendimineto:
 
 [![image](https://i9.ytimg.com/vi_webp/a8RTXGUqz0I/mqdefault.webp?v=62b63c2e&sqp=CPCD2ZUG&rs=AOn4CLC4VNJuqUh1WJu1wPF7o23vGxiSHw)](https://www.youtube.com/watch?v=a8RTXGUqz0I)
 
